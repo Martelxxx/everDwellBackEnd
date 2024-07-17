@@ -108,7 +108,7 @@ DATABASES = {
         'NAME': 'agents',
         'USER': '',
         'PASSWORD': '',
-        'HOST': 'http://44.204.232.236/',
+        'HOST': '44.204.232.236/',
         'PORT': '8000',
     }
 }
